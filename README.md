@@ -8,11 +8,12 @@ Before that I led data systems for a financial services firm and ran a group bus
 
 ## What is here
 
-Four reference implementations that show how I work, each with tests, CI and a README that explains the design decisions:
+Five reference implementations that show how I work, each with tests, CI and a README that explains the design decisions:
 
 - [analytics-platform-reference](https://github.com/ositawagu/analytics-platform-reference): ingestion, transformation, a published schema and a dashboard over UK government spending data.
 - [data-quality-monitor](https://github.com/ositawagu/data-quality-monitor): validation, freshness and volume checks over that platform's outputs, with an operating model.
 - [ask-the-data](https://github.com/ositawagu/ask-the-data): a guarded natural-language-to-SQL interface over the same schema.
 - [data-governance-policy-kit](https://github.com/ositawagu/data-governance-policy-kit): the four policies a new data function is held to, with a rollout guide.
+- [ats-safe-cv-builder](https://github.com/ositawagu/ats-safe-cv-builder): one content file rendered two ways and checked by gates that read the PDF the way an applicant tracking system does.
 
 Connect on [LinkedIn](https://www.linkedin.com/in/ositaawagu).
