@@ -16,4 +16,4 @@ Five reference implementations that show how I work, each with tests, CI and a R
 - [data-governance-policy-kit](https://github.com/ositawagu/data-governance-policy-kit): the four policies a new data function is held to, with a rollout guide.
 - [ats-safe-cv-builder](https://github.com/ositawagu/ats-safe-cv-builder): one content file rendered two ways and checked by gates that read the PDF the way an applicant tracking system does.
 
-Connect on [LinkedIn](https://www.linkedin.com/in/ositaawagu).
+Connect on [LinkedIn](https://www.linkedin.com/in/ositawagu).
